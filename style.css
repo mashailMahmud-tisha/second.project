@@ -1,0 +1,52 @@
+body{
+    font-style: normal;
+}
+h2{
+font-family: 'Pirata One', cursive;
+font-size: 70px;
+}
+h3{
+font-family: 'Lora', serif;
+font-size: 40px;
+color: crimson;
+}
+.jj{
+    color: aqua;
+}
+.top{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 5%;
+    float : left
+}
+img{
+    width: 70%;
+    margin: 15px;
+    background-origin: 5px solid ;
+}
+.fb{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(62, 11, 92),rgb(148, 16, 49));
+    padding: 15px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.ggg{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(62, 11, 92),rgb(148, 16, 49));
+    padding: 15px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
